@@ -1,4 +1,10 @@
 [
-  "https://api2.peoplerwa.io/",
-  "http://123.207.204.177:9400/"
+  {
+    "title": "BSC-ninicoin1",
+    "nodeUrl": "https://api2.peoplerwa.io/"
+  },
+  {
+    "title": "BSC-ninicoin2",
+    "nodeUrl": "http://123.207.204.177:9400/"
+  }
 ]
